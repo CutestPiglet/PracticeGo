@@ -5,3 +5,5 @@
 * Go Playground (Write Go online): https://play.golang.org/
 
 * Go Examples: https://gobyexample.com/
+
+* An Introduction to Programming in Go: http://www.golang-book.com/books/intro
